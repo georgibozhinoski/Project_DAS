@@ -1,1 +1,4 @@
-#Georgi Bozinoski 216030, Andreja Dimkovski 195041, Filip Stanojkovski 
+## Authors
+- Георги Божиновски (216030)
+- Филип Станојковски (201074)
+- Андреја Димковски (195041)
