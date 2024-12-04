@@ -1,0 +1,1737 @@
+2024-12-04 23:14:53.449202+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(1,'ADIN','ADIN') [42103-232]
+2024-12-04 23:14:53.454281+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(2,'ALK','ALK') [42103-232]
+2024-12-04 23:14:53.455312+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(3,'ALKB','ALKB') [42103-232]
+2024-12-04 23:14:53.456122+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(4,'AMBR','AMBR') [42103-232]
+2024-12-04 23:14:53.457128+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(5,'AMEH','AMEH') [42103-232]
+2024-12-04 23:14:53.458127+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(6,'APTK','APTK') [42103-232]
+2024-12-04 23:14:53.458127+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(7,'ATPP','ATPP') [42103-232]
+2024-12-04 23:14:53.459047+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(8,'AUMK','AUMK') [42103-232]
+2024-12-04 23:14:53.459047+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(9,'BANA','BANA') [42103-232]
+2024-12-04 23:14:53.459047+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(10,'BGOR','BGOR') [42103-232]
+2024-12-04 23:14:53.459047+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(11,'BIKF','BIKF') [42103-232]
+2024-12-04 23:14:53.459047+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(12,'BIM','BIM') [42103-232]
+2024-12-04 23:14:53.459047+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(13,'BLTU','BLTU') [42103-232]
+2024-12-04 23:14:53.459047+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(14,'CBNG','CBNG') [42103-232]
+2024-12-04 23:14:53.459047+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(15,'CDHV','CDHV') [42103-232]
+2024-12-04 23:14:53.459047+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(16,'CEVI','CEVI') [42103-232]
+2024-12-04 23:14:53.462699+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(17,'CKB','CKB') [42103-232]
+2024-12-04 23:14:53.462699+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(18,'CKBKO','CKBKO') [42103-232]
+2024-12-04 23:14:53.463703+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(19,'DEBA','DEBA') [42103-232]
+2024-12-04 23:14:53.463703+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(20,'DIMI','DIMI') [42103-232]
+2024-12-04 23:14:53.463703+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(21,'EDST','EDST') [42103-232]
+2024-12-04 23:14:53.463703+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(22,'ELMA','ELMA') [42103-232]
+2024-12-04 23:14:53.463703+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(23,'ELNC','ELNC') [42103-232]
+2024-12-04 23:14:53.465778+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(24,'ENER','ENER') [42103-232]
+2024-12-04 23:14:53.465778+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(25,'ENSA','ENSA') [42103-232]
+2024-12-04 23:14:53.465778+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(26,'EUHA','EUHA') [42103-232]
+2024-12-04 23:14:53.465778+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(27,'EUMK','EUMK') [42103-232]
+2024-12-04 23:14:53.465778+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(28,'EVRO','EVRO') [42103-232]
+2024-12-04 23:14:53.465778+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(29,'FAKM','FAKM') [42103-232]
+2024-12-04 23:14:53.467784+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(30,'FERS','FERS') [42103-232]
+2024-12-04 23:14:53.467784+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(31,'FKTL','FKTL') [42103-232]
+2024-12-04 23:14:53.467784+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(32,'FROT','FROT') [42103-232]
+2024-12-04 23:14:53.467784+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(33,'FUBT','FUBT') [42103-232]
+2024-12-04 23:14:53.467784+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(34,'GALE','GALE') [42103-232]
+2024-12-04 23:14:53.470134+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(35,'GDKM','GDKM') [42103-232]
+2024-12-04 23:14:53.470134+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(36,'GECK','GECK') [42103-232]
+2024-12-04 23:14:53.470134+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(37,'GECT','GECT') [42103-232]
+2024-12-04 23:14:53.470134+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(38,'GIMS','GIMS') [42103-232]
+2024-12-04 23:14:53.470134+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(39,'GRDN','GRDN') [42103-232]
+2024-12-04 23:14:53.470134+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(40,'GRNT','GRNT') [42103-232]
+2024-12-04 23:14:53.470134+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(41,'GRSN','GRSN') [42103-232]
+2024-12-04 23:14:53.472507+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(42,'GRZD','GRZD') [42103-232]
+2024-12-04 23:14:53.472507+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(43,'GTC','GTC') [42103-232]
+2024-12-04 23:14:53.473511+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(44,'GTRG','GTRG') [42103-232]
+2024-12-04 23:14:53.473511+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(45,'IJUG','IJUG') [42103-232]
+2024-12-04 23:14:53.473511+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(46,'INB','INB') [42103-232]
+2024-12-04 23:14:53.473511+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(47,'INHO','INHO') [42103-232]
+2024-12-04 23:14:53.473511+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(48,'INOV','INOV') [42103-232]
+2024-12-04 23:14:53.473511+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(49,'INPR','INPR') [42103-232]
+2024-12-04 23:14:53.473511+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(50,'INTP','INTP') [42103-232]
+2024-12-04 23:14:53.473511+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(51,'JAKO','JAKO') [42103-232]
+2024-12-04 23:14:53.473511+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(52,'JULI','JULI') [42103-232]
+2024-12-04 23:14:53.473511+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(53,'JUSK','JUSK') [42103-232]
+2024-12-04 23:14:53.473511+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(54,'KARO','KARO') [42103-232]
+2024-12-04 23:14:53.473511+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(55,'KDFO','KDFO') [42103-232]
+2024-12-04 23:14:53.473511+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(56,'KJUBI','KJUBI') [42103-232]
+2024-12-04 23:14:53.473511+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(57,'KKFI','KKFI') [42103-232]
+2024-12-04 23:14:53.473511+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(58,'KKST','KKST') [42103-232]
+2024-12-04 23:14:53.473511+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(59,'KLST','KLST') [42103-232]
+2024-12-04 23:14:53.473511+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(60,'KMB','KMB') [42103-232]
+2024-12-04 23:14:53.473511+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(61,'KMPR','KMPR') [42103-232]
+2024-12-04 23:14:53.473511+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(62,'KOMU','KOMU') [42103-232]
+2024-12-04 23:14:53.473511+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(63,'KONF','KONF') [42103-232]
+2024-12-04 23:14:53.473511+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(64,'KONZ','KONZ') [42103-232]
+2024-12-04 23:14:53.473511+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(65,'KORZ','KORZ') [42103-232]
+2024-12-04 23:14:53.473511+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(66,'KPSS','KPSS') [42103-232]
+2024-12-04 23:14:53.473511+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(67,'KULT','KULT') [42103-232]
+2024-12-04 23:14:53.473511+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(68,'KVAS','KVAS') [42103-232]
+2024-12-04 23:14:53.482172+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(69,'LAJO','LAJO') [42103-232]
+2024-12-04 23:14:53.482172+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(70,'LHND','LHND') [42103-232]
+2024-12-04 23:14:53.482172+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(71,'LOTO','LOTO') [42103-232]
+2024-12-04 23:14:53.482172+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(72,'LOZP','LOZP') [42103-232]
+2024-12-04 23:14:53.482172+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(73,'MAGP','MAGP') [42103-232]
+2024-12-04 23:14:53.483677+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(74,'MAKP','MAKP') [42103-232]
+2024-12-04 23:14:53.483677+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(75,'MAKS','MAKS') [42103-232]
+2024-12-04 23:14:53.483677+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(76,'MB','MB') [42103-232]
+2024-12-04 23:14:53.483677+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(77,'MERM','MERM') [42103-232]
+2024-12-04 23:14:53.483677+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(78,'MKSD','MKSD') [42103-232]
+2024-12-04 23:14:53.483677+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(79,'MLKR','MLKR') [42103-232]
+2024-12-04 23:14:53.485697+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(80,'MODA','MODA') [42103-232]
+2024-12-04 23:14:53.485697+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(81,'MPOL','MPOL') [42103-232]
+2024-12-04 23:14:53.485697+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(82,'MPT','MPT') [42103-232]
+2024-12-04 23:14:53.485697+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(83,'MPTE','MPTE') [42103-232]
+2024-12-04 23:14:53.485697+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(84,'MTUR','MTUR') [42103-232]
+2024-12-04 23:14:53.485697+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(85,'MZHE','MZHE') [42103-232]
+2024-12-04 23:14:53.485697+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(86,'MZPU','MZPU') [42103-232]
+2024-12-04 23:14:53.485697+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(87,'NEME','NEME') [42103-232]
+2024-12-04 23:14:53.485697+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(88,'NOSK','NOSK') [42103-232]
+2024-12-04 23:14:53.489292+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(89,'OBPP','OBPP') [42103-232]
+2024-12-04 23:14:53.489292+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(90,'OILK','OILK') [42103-232]
+2024-12-04 23:14:53.489292+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(91,'OKTA','OKTA') [42103-232]
+2024-12-04 23:14:53.489292+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(92,'OMOS','OMOS') [42103-232]
+2024-12-04 23:14:53.489292+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(93,'OPFO','OPFO') [42103-232]
+2024-12-04 23:14:53.489292+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(94,'OPTK','OPTK') [42103-232]
+2024-12-04 23:14:53.489292+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(95,'ORAN','ORAN') [42103-232]
+2024-12-04 23:14:53.489292+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(96,'OSPO','OSPO') [42103-232]
+2024-12-04 23:14:53.489292+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(97,'OTEK','OTEK') [42103-232]
+2024-12-04 23:14:53.489292+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(98,'PELK','PELK') [42103-232]
+2024-12-04 23:14:53.489292+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(99,'PGGV','PGGV') [42103-232]
+2024-12-04 23:14:53.489292+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(100,'PKB','PKB') [42103-232]
+2024-12-04 23:14:53.489292+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(101,'POPK','POPK') [42103-232]
+2024-12-04 23:14:53.489292+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(102,'PPIV','PPIV') [42103-232]
+2024-12-04 23:14:53.493790+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(103,'PROD','PROD') [42103-232]
+2024-12-04 23:14:53.493790+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(104,'PROT','PROT') [42103-232]
+2024-12-04 23:14:53.493790+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(105,'PTRS','PTRS') [42103-232]
+2024-12-04 23:14:53.493790+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(106,'RADE','RADE') [42103-232]
+2024-12-04 23:14:53.493790+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(107,'REPL','REPL') [42103-232]
+2024-12-04 23:14:53.493790+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(108,'RIMI','RIMI') [42103-232]
+2024-12-04 23:14:53.493790+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(109,'RINS','RINS') [42103-232]
+2024-12-04 23:14:53.493790+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(110,'RZEK','RZEK') [42103-232]
+2024-12-04 23:14:53.493790+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(111,'RZIT','RZIT') [42103-232]
+2024-12-04 23:14:53.493790+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(112,'RZIZ','RZIZ') [42103-232]
+2024-12-04 23:14:53.497084+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(113,'RZLE','RZLE') [42103-232]
+2024-12-04 23:14:53.497084+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(114,'RZLV','RZLV') [42103-232]
+2024-12-04 23:14:53.497084+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(115,'RZTK','RZTK') [42103-232]
+2024-12-04 23:14:53.497084+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(116,'RZUG','RZUG') [42103-232]
+2024-12-04 23:14:53.497084+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(117,'RZUS','RZUS') [42103-232]
+2024-12-04 23:14:53.497084+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(118,'SBT','SBT') [42103-232]
+2024-12-04 23:14:53.499088+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(119,'SDOM','SDOM') [42103-232]
+2024-12-04 23:14:53.499088+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(120,'SIL','SIL') [42103-232]
+2024-12-04 23:14:53.499088+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(121,'SKON','SKON') [42103-232]
+2024-12-04 23:14:53.499088+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(122,'SKP','SKP') [42103-232]
+2024-12-04 23:14:53.499088+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(123,'SLAV','SLAV') [42103-232]
+2024-12-04 23:14:53.499088+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(124,'SNBT','SNBT') [42103-232]
+2024-12-04 23:14:53.499088+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(125,'SNBTO','SNBTO') [42103-232]
+2024-12-04 23:14:53.501093+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(126,'SOLN','SOLN') [42103-232]
+2024-12-04 23:14:53.501093+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(127,'SPAZ','SPAZ') [42103-232]
+2024-12-04 23:14:53.501093+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(128,'SPAZP','SPAZP') [42103-232]
+2024-12-04 23:14:53.501093+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(129,'SPOL','SPOL') [42103-232]
+2024-12-04 23:14:53.501093+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(130,'SSPR','SSPR') [42103-232]
+2024-12-04 23:14:53.501093+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(131,'STB','STB') [42103-232]
+2024-12-04 23:14:53.503599+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(132,'STBP','STBP') [42103-232]
+2024-12-04 23:14:53.503599+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(133,'STIL','STIL') [42103-232]
+2024-12-04 23:14:53.503599+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(134,'STOK','STOK') [42103-232]
+2024-12-04 23:14:53.503599+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(135,'TAJM','TAJM') [42103-232]
+2024-12-04 23:14:53.503599+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(136,'TBKO','TBKO') [42103-232]
+2024-12-04 23:14:53.503599+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(137,'TEAL','TEAL') [42103-232]
+2024-12-04 23:14:53.505345+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(138,'TEHN','TEHN') [42103-232]
+2024-12-04 23:14:53.505345+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(139,'TEL','TEL') [42103-232]
+2024-12-04 23:14:53.505345+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(140,'TETE','TETE') [42103-232]
+2024-12-04 23:14:53.505345+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(141,'TIKV','TIKV') [42103-232]
+2024-12-04 23:14:53.505345+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(142,'TKPR','TKPR') [42103-232]
+2024-12-04 23:14:53.505345+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(143,'TKVS','TKVS') [42103-232]
+2024-12-04 23:14:53.505345+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(144,'TNB','TNB') [42103-232]
+2024-12-04 23:14:53.507353+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(145,'TRDB','TRDB') [42103-232]
+2024-12-04 23:14:53.507353+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(146,'TRPS','TRPS') [42103-232]
+2024-12-04 23:14:53.507353+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(147,'TRUB','TRUB') [42103-232]
+2024-12-04 23:14:53.507353+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(148,'TSMP','TSMP') [42103-232]
+2024-12-04 23:14:53.513719+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(149,'TSZS','TSZS') [42103-232]
+2024-12-04 23:14:53.513719+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(150,'TTK','TTK') [42103-232]
+2024-12-04 23:14:53.513719+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(151,'TTKO','TTKO') [42103-232]
+2024-12-04 23:14:53.513719+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(152,'UNI','UNI') [42103-232]
+2024-12-04 23:14:53.513719+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(153,'USJE','USJE') [42103-232]
+2024-12-04 23:14:53.513719+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(154,'VARG','VARG') [42103-232]
+2024-12-04 23:14:53.513719+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(155,'VFPM','VFPM') [42103-232]
+2024-12-04 23:14:53.513719+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(156,'VITA','VITA') [42103-232]
+2024-12-04 23:14:53.513719+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(157,'VROS','VROS') [42103-232]
+2024-12-04 23:14:53.513719+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(158,'VSC','VSC') [42103-232]
+2024-12-04 23:14:53.513719+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(159,'VTKS','VTKS') [42103-232]
+2024-12-04 23:14:53.513719+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(160,'ZAS','ZAS') [42103-232]
+2024-12-04 23:14:53.513719+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(161,'ZILU','ZILU') [42103-232]
+2024-12-04 23:14:53.513719+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(162,'ZILUP','ZILUP') [42103-232]
+2024-12-04 23:14:53.513719+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(163,'ZIMS','ZIMS') [42103-232]
+2024-12-04 23:14:53.513719+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(164,'ZKAR','ZKAR') [42103-232]
+2024-12-04 23:14:53.513719+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(165,'ZPKO','ZPKO') [42103-232]
+2024-12-04 23:14:53.513719+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(166,'ZPOG','ZPOG') [42103-232]
+2024-12-04 23:14:53.513719+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(167,'ZUAS','ZUAS') [42103-232]
+2024-12-04 23:15:13.758043+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(1,'ADIN','ADIN') [42103-232]
+2024-12-04 23:15:13.759045+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(2,'ALK','ALK') [42103-232]
+2024-12-04 23:15:13.759045+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(3,'ALKB','ALKB') [42103-232]
+2024-12-04 23:15:13.759045+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(4,'AMBR','AMBR') [42103-232]
+2024-12-04 23:15:13.760044+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(5,'AMEH','AMEH') [42103-232]
+2024-12-04 23:15:13.760044+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(6,'APTK','APTK') [42103-232]
+2024-12-04 23:15:13.760044+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(7,'ATPP','ATPP') [42103-232]
+2024-12-04 23:15:13.760044+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(8,'AUMK','AUMK') [42103-232]
+2024-12-04 23:15:13.761044+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(9,'BANA','BANA') [42103-232]
+2024-12-04 23:15:13.761044+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(10,'BGOR','BGOR') [42103-232]
+2024-12-04 23:15:13.761044+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(11,'BIKF','BIKF') [42103-232]
+2024-12-04 23:15:13.761044+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(12,'BIM','BIM') [42103-232]
+2024-12-04 23:15:13.761044+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(13,'BLTU','BLTU') [42103-232]
+2024-12-04 23:15:13.761044+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(14,'CBNG','CBNG') [42103-232]
+2024-12-04 23:15:13.761044+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(15,'CDHV','CDHV') [42103-232]
+2024-12-04 23:15:13.761044+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(16,'CEVI','CEVI') [42103-232]
+2024-12-04 23:15:13.763625+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(17,'CKB','CKB') [42103-232]
+2024-12-04 23:15:13.763625+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(18,'CKBKO','CKBKO') [42103-232]
+2024-12-04 23:15:13.763625+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(19,'DEBA','DEBA') [42103-232]
+2024-12-04 23:15:13.763625+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(20,'DIMI','DIMI') [42103-232]
+2024-12-04 23:15:13.763625+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(21,'EDST','EDST') [42103-232]
+2024-12-04 23:15:13.763625+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(22,'ELMA','ELMA') [42103-232]
+2024-12-04 23:15:13.763625+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(23,'ELNC','ELNC') [42103-232]
+2024-12-04 23:15:13.763625+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(24,'ENER','ENER') [42103-232]
+2024-12-04 23:15:13.763625+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(25,'ENSA','ENSA') [42103-232]
+2024-12-04 23:15:13.763625+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(26,'EUHA','EUHA') [42103-232]
+2024-12-04 23:15:13.767145+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(27,'EUMK','EUMK') [42103-232]
+2024-12-04 23:15:13.767145+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(28,'EVRO','EVRO') [42103-232]
+2024-12-04 23:15:13.768282+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(29,'FAKM','FAKM') [42103-232]
+2024-12-04 23:15:13.768282+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(30,'FERS','FERS') [42103-232]
+2024-12-04 23:15:13.769288+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(31,'FKTL','FKTL') [42103-232]
+2024-12-04 23:15:13.769288+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(32,'FROT','FROT') [42103-232]
+2024-12-04 23:15:13.769288+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(33,'FUBT','FUBT') [42103-232]
+2024-12-04 23:15:13.770289+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(34,'GALE','GALE') [42103-232]
+2024-12-04 23:15:13.770289+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(35,'GDKM','GDKM') [42103-232]
+2024-12-04 23:15:13.770289+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(36,'GECK','GECK') [42103-232]
+2024-12-04 23:15:13.771288+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(37,'GECT','GECT') [42103-232]
+2024-12-04 23:15:13.771288+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(38,'GIMS','GIMS') [42103-232]
+2024-12-04 23:15:13.771288+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(39,'GRDN','GRDN') [42103-232]
+2024-12-04 23:15:13.771288+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(40,'GRNT','GRNT') [42103-232]
+2024-12-04 23:15:13.772286+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(41,'GRSN','GRSN') [42103-232]
+2024-12-04 23:15:13.772286+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(42,'GRZD','GRZD') [42103-232]
+2024-12-04 23:15:13.772286+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(43,'GTC','GTC') [42103-232]
+2024-12-04 23:15:13.772286+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(44,'GTRG','GTRG') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(45,'IJUG','IJUG') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(46,'INB','INB') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(47,'INHO','INHO') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(48,'INOV','INOV') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(49,'INPR','INPR') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(50,'INTP','INTP') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(51,'JAKO','JAKO') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(52,'JULI','JULI') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(53,'JUSK','JUSK') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(54,'KARO','KARO') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(55,'KDFO','KDFO') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(56,'KJUBI','KJUBI') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(57,'KKFI','KKFI') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(58,'KKST','KKST') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(59,'KLST','KLST') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(60,'KMB','KMB') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(61,'KMPR','KMPR') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(62,'KOMU','KOMU') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(63,'KONF','KONF') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(64,'KONZ','KONZ') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(65,'KORZ','KORZ') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(66,'KPSS','KPSS') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(67,'KULT','KULT') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(68,'KVAS','KVAS') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(69,'LAJO','LAJO') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(70,'LHND','LHND') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(71,'LOTO','LOTO') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(72,'LOZP','LOZP') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(73,'MAGP','MAGP') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(74,'MAKP','MAKP') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(75,'MAKS','MAKS') [42103-232]
+2024-12-04 23:15:13.773268+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(76,'MB','MB') [42103-232]
+2024-12-04 23:15:13.783301+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(77,'MERM','MERM') [42103-232]
+2024-12-04 23:15:13.783301+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(78,'MKSD','MKSD') [42103-232]
+2024-12-04 23:15:13.783301+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(79,'MLKR','MLKR') [42103-232]
+2024-12-04 23:15:13.783301+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(80,'MODA','MODA') [42103-232]
+2024-12-04 23:15:13.783301+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(81,'MPOL','MPOL') [42103-232]
+2024-12-04 23:15:13.783301+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(82,'MPT','MPT') [42103-232]
+2024-12-04 23:15:13.783301+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(83,'MPTE','MPTE') [42103-232]
+2024-12-04 23:15:13.783301+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(84,'MTUR','MTUR') [42103-232]
+2024-12-04 23:15:13.783301+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(85,'MZHE','MZHE') [42103-232]
+2024-12-04 23:15:13.783301+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(86,'MZPU','MZPU') [42103-232]
+2024-12-04 23:15:13.783301+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(87,'NEME','NEME') [42103-232]
+2024-12-04 23:15:13.783301+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(88,'NOSK','NOSK') [42103-232]
+2024-12-04 23:15:13.783301+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(89,'OBPP','OBPP') [42103-232]
+2024-12-04 23:15:13.787997+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(90,'OILK','OILK') [42103-232]
+2024-12-04 23:15:13.787997+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(91,'OKTA','OKTA') [42103-232]
+2024-12-04 23:15:13.787997+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(92,'OMOS','OMOS') [42103-232]
+2024-12-04 23:15:13.787997+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(93,'OPFO','OPFO') [42103-232]
+2024-12-04 23:15:13.787997+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(94,'OPTK','OPTK') [42103-232]
+2024-12-04 23:15:13.787997+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(95,'ORAN','ORAN') [42103-232]
+2024-12-04 23:15:13.787997+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(96,'OSPO','OSPO') [42103-232]
+2024-12-04 23:15:13.787997+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(97,'OTEK','OTEK') [42103-232]
+2024-12-04 23:15:13.787997+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(98,'PELK','PELK') [42103-232]
+2024-12-04 23:15:13.787997+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(99,'PGGV','PGGV') [42103-232]
+2024-12-04 23:15:13.787997+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(100,'PKB','PKB') [42103-232]
+2024-12-04 23:15:13.787997+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(101,'POPK','POPK') [42103-232]
+2024-12-04 23:15:13.787997+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(102,'PPIV','PPIV') [42103-232]
+2024-12-04 23:15:13.787997+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(103,'PROD','PROD') [42103-232]
+2024-12-04 23:15:13.787997+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(104,'PROT','PROT') [42103-232]
+2024-12-04 23:15:13.787997+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(105,'PTRS','PTRS') [42103-232]
+2024-12-04 23:15:13.787997+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(106,'RADE','RADE') [42103-232]
+2024-12-04 23:15:13.787997+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(107,'REPL','REPL') [42103-232]
+2024-12-04 23:15:13.787997+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(108,'RIMI','RIMI') [42103-232]
+2024-12-04 23:15:13.787997+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(109,'RINS','RINS') [42103-232]
+2024-12-04 23:15:13.787997+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(110,'RZEK','RZEK') [42103-232]
+2024-12-04 23:15:13.787997+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(111,'RZIT','RZIT') [42103-232]
+2024-12-04 23:15:13.793705+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(112,'RZIZ','RZIZ') [42103-232]
+2024-12-04 23:15:13.793705+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(113,'RZLE','RZLE') [42103-232]
+2024-12-04 23:15:13.793705+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(114,'RZLV','RZLV') [42103-232]
+2024-12-04 23:15:13.793705+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(115,'RZTK','RZTK') [42103-232]
+2024-12-04 23:15:13.793705+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(116,'RZUG','RZUG') [42103-232]
+2024-12-04 23:15:13.793705+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(117,'RZUS','RZUS') [42103-232]
+2024-12-04 23:15:13.793705+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(118,'SBT','SBT') [42103-232]
+2024-12-04 23:15:13.793705+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(119,'SDOM','SDOM') [42103-232]
+2024-12-04 23:15:13.793705+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(120,'SIL','SIL') [42103-232]
+2024-12-04 23:15:13.793705+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(121,'SKON','SKON') [42103-232]
+2024-12-04 23:15:13.793705+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(122,'SKP','SKP') [42103-232]
+2024-12-04 23:15:13.793705+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(123,'SLAV','SLAV') [42103-232]
+2024-12-04 23:15:13.793705+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(124,'SNBT','SNBT') [42103-232]
+2024-12-04 23:15:13.793705+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(125,'SNBTO','SNBTO') [42103-232]
+2024-12-04 23:15:13.793705+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(126,'SOLN','SOLN') [42103-232]
+2024-12-04 23:15:13.793705+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(127,'SPAZ','SPAZ') [42103-232]
+2024-12-04 23:15:13.793705+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(128,'SPAZP','SPAZP') [42103-232]
+2024-12-04 23:15:13.793705+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(129,'SPOL','SPOL') [42103-232]
+2024-12-04 23:15:13.793705+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(130,'SSPR','SSPR') [42103-232]
+2024-12-04 23:15:13.793705+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(131,'STB','STB') [42103-232]
+2024-12-04 23:15:13.793705+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(132,'STBP','STBP') [42103-232]
+2024-12-04 23:15:13.793705+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(133,'STIL','STIL') [42103-232]
+2024-12-04 23:15:13.793705+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(134,'STOK','STOK') [42103-232]
+2024-12-04 23:15:13.793705+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(135,'TAJM','TAJM') [42103-232]
+2024-12-04 23:15:13.793705+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(136,'TBKO','TBKO') [42103-232]
+2024-12-04 23:15:13.793705+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(137,'TEAL','TEAL') [42103-232]
+2024-12-04 23:15:13.793705+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(138,'TEHN','TEHN') [42103-232]
+2024-12-04 23:15:13.793705+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(139,'TEL','TEL') [42103-232]
+2024-12-04 23:15:13.793705+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(140,'TETE','TETE') [42103-232]
+2024-12-04 23:15:13.803364+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(141,'TIKV','TIKV') [42103-232]
+2024-12-04 23:15:13.803364+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(142,'TKPR','TKPR') [42103-232]
+2024-12-04 23:15:13.803364+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(143,'TKVS','TKVS') [42103-232]
+2024-12-04 23:15:13.803364+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(144,'TNB','TNB') [42103-232]
+2024-12-04 23:15:13.803364+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(145,'TRDB','TRDB') [42103-232]
+2024-12-04 23:15:13.803364+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(146,'TRPS','TRPS') [42103-232]
+2024-12-04 23:15:13.803364+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(147,'TRUB','TRUB') [42103-232]
+2024-12-04 23:15:13.803364+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(148,'TSMP','TSMP') [42103-232]
+2024-12-04 23:15:13.803364+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(149,'TSZS','TSZS') [42103-232]
+2024-12-04 23:15:13.803364+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(150,'TTK','TTK') [42103-232]
+2024-12-04 23:15:13.803364+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(151,'TTKO','TTKO') [42103-232]
+2024-12-04 23:15:13.803364+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(152,'UNI','UNI') [42103-232]
+2024-12-04 23:15:13.803364+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(153,'USJE','USJE') [42103-232]
+2024-12-04 23:15:13.803364+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(154,'VARG','VARG') [42103-232]
+2024-12-04 23:15:13.803364+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(155,'VFPM','VFPM') [42103-232]
+2024-12-04 23:15:13.803364+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(156,'VITA','VITA') [42103-232]
+2024-12-04 23:15:13.803364+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(157,'VROS','VROS') [42103-232]
+2024-12-04 23:15:13.803364+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(158,'VSC','VSC') [42103-232]
+2024-12-04 23:15:13.803364+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(160,'ZAS','ZAS') [42103-232]
+2024-12-04 23:15:13.803364+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(161,'ZILU','ZILU') [42103-232]
+2024-12-04 23:15:13.803364+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(162,'ZILUP','ZILUP') [42103-232]
+2024-12-04 23:15:13.803364+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(163,'ZIMS','ZIMS') [42103-232]
+2024-12-04 23:15:13.803364+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(164,'ZKAR','ZKAR') [42103-232]
+2024-12-04 23:15:13.803364+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(165,'ZPKO','ZPKO') [42103-232]
+2024-12-04 23:15:13.803364+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(166,'ZPOG','ZPOG') [42103-232]
+2024-12-04 23:15:13.803364+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES(167,'ZUAS','ZUAS') [42103-232]
+2024-12-04 23:16:20.638678+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "INSERT INTO issuers (id, code, name) [*]VALUE(2,'ALK','ALK')"; expected "OVERRIDING USER VALUE, OVERRIDING SYSTEM VALUE, DIRECT, DEFAULT VALUES, VALUES, SET, WITH, (, SELECT, TABLE, VALUES"; SQL statement:
+INSERT INTO issuers (id, code, name) VALUE(2,'ALK','ALK') [42001-232]
+2024-12-04 23:18:35.353821+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES('ALKB','ALKB') [42103-232]
+2024-12-04 23:18:35.353821+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES('ADIN','ADIN') [42103-232]
+2024-12-04 23:18:35.354852+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES('AMBR','AMBR') [42103-232]
+2024-12-04 23:18:35.354852+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES('AMEH','AMEH') [42103-232]
+2024-12-04 23:18:35.354852+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES('APTK','APTK') [42103-232]
+2024-12-04 23:18:35.355817+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES('ATPP','ATPP') [42103-232]
+2024-12-04 23:18:35.355817+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES('AUMK','AUMK') [42103-232]
+2024-12-04 23:18:35.355817+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES('BANA','BANA') [42103-232]
+2024-12-04 23:18:35.356818+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES('BGOR','BGOR') [42103-232]
+2024-12-04 23:18:35.356818+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" VALUES('BIKF','BIKF') [42103-232]
+2024-12-04 23:21:01.294008+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('ALKB','ALKB') [42103-232]
+2024-12-04 23:21:01.295006+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('ADIN','ADIN') [42103-232]
+2024-12-04 23:21:01.295006+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('AMBR','AMBR') [42103-232]
+2024-12-04 23:21:01.295006+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('AMEH','AMEH') [42103-232]
+2024-12-04 23:21:01.296009+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('APTK','APTK') [42103-232]
+2024-12-04 23:21:01.296009+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('ATPP','ATPP') [42103-232]
+2024-12-04 23:21:01.297006+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('AUMK','AUMK') [42103-232]
+2024-12-04 23:21:01.297006+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('BANA','BANA') [42103-232]
+2024-12-04 23:21:01.298009+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('BGOR','BGOR') [42103-232]
+2024-12-04 23:21:01.298009+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('BIKF','BIKF') [42103-232]
+2024-12-04 23:21:01.299007+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('BIM','BIM') [42103-232]
+2024-12-04 23:21:01.299007+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('BLTU','BLTU') [42103-232]
+2024-12-04 23:21:01.299007+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('CBNG','CBNG') [42103-232]
+2024-12-04 23:21:01.299007+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('CDHV','CDHV') [42103-232]
+2024-12-04 23:21:01.300007+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('CEVI','CEVI') [42103-232]
+2024-12-04 23:21:01.300007+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('CKB','CKB') [42103-232]
+2024-12-04 23:21:01.300007+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('CKBKO','CKBKO') [42103-232]
+2024-12-04 23:21:01.300007+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('DEBA','DEBA') [42103-232]
+2024-12-04 23:21:01.301006+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('DIMI','DIMI') [42103-232]
+2024-12-04 23:21:01.301006+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('EDST','EDST') [42103-232]
+2024-12-04 23:21:01.301006+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('ELMA','ELMA') [42103-232]
+2024-12-04 23:21:01.301006+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('ELNC','ELNC') [42103-232]
+2024-12-04 23:21:01.302006+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('ENER','ENER') [42103-232]
+2024-12-04 23:21:01.302006+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('ENSA','ENSA') [42103-232]
+2024-12-04 23:21:01.302511+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('EUHA','EUHA') [42103-232]
+2024-12-04 23:21:01.302511+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('EUMK','EUMK') [42103-232]
+2024-12-04 23:21:01.302511+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('EVRO','EVRO') [42103-232]
+2024-12-04 23:21:01.303515+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('FAKM','FAKM') [42103-232]
+2024-12-04 23:21:01.303515+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('FERS','FERS') [42103-232]
+2024-12-04 23:21:01.303515+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('FKTL','FKTL') [42103-232]
+2024-12-04 23:21:01.303515+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('FROT','FROT') [42103-232]
+2024-12-04 23:21:01.304514+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('FUBT','FUBT') [42103-232]
+2024-12-04 23:21:01.304514+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('GALE','GALE') [42103-232]
+2024-12-04 23:21:01.304514+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('GDKM','GDKM') [42103-232]
+2024-12-04 23:21:01.304514+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('GECK','GECK') [42103-232]
+2024-12-04 23:21:01.305514+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('GECT','GECT') [42103-232]
+2024-12-04 23:21:01.305514+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('GIMS','GIMS') [42103-232]
+2024-12-04 23:21:01.305514+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('GRDN','GRDN') [42103-232]
+2024-12-04 23:21:01.305514+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('GRNT','GRNT') [42103-232]
+2024-12-04 23:21:01.306513+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('GRSN','GRSN') [42103-232]
+2024-12-04 23:21:01.306513+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('GRZD','GRZD') [42103-232]
+2024-12-04 23:21:01.306513+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('GTC','GTC') [42103-232]
+2024-12-04 23:21:01.306513+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('GTRG','GTRG') [42103-232]
+2024-12-04 23:21:01.307514+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('IJUG','IJUG') [42103-232]
+2024-12-04 23:21:01.307514+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('INB','INB') [42103-232]
+2024-12-04 23:21:01.307514+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('INHO','INHO') [42103-232]
+2024-12-04 23:21:01.307514+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('INOV','INOV') [42103-232]
+2024-12-04 23:21:01.308514+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('INPR','INPR') [42103-232]
+2024-12-04 23:21:01.308514+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('INTP','INTP') [42103-232]
+2024-12-04 23:21:01.309514+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('JAKO','JAKO') [42103-232]
+2024-12-04 23:21:01.309514+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('JULI','JULI') [42103-232]
+2024-12-04 23:21:01.309514+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('JUSK','JUSK') [42103-232]
+2024-12-04 23:21:01.310518+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KARO','KARO') [42103-232]
+2024-12-04 23:21:01.310518+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KDFO','KDFO') [42103-232]
+2024-12-04 23:21:01.310518+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KJUBI','KJUBI') [42103-232]
+2024-12-04 23:21:01.310518+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KKFI','KKFI') [42103-232]
+2024-12-04 23:21:01.312025+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KKST','KKST') [42103-232]
+2024-12-04 23:21:01.312025+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KLST','KLST') [42103-232]
+2024-12-04 23:21:01.312025+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KMB','KMB') [42103-232]
+2024-12-04 23:21:01.312025+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KMPR','KMPR') [42103-232]
+2024-12-04 23:21:01.313033+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KOMU','KOMU') [42103-232]
+2024-12-04 23:21:01.313033+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KONF','KONF') [42103-232]
+2024-12-04 23:21:01.313033+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KONZ','KONZ') [42103-232]
+2024-12-04 23:21:01.313033+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KORZ','KORZ') [42103-232]
+2024-12-04 23:21:01.314032+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KPSS','KPSS') [42103-232]
+2024-12-04 23:21:01.314032+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KULT','KULT') [42103-232]
+2024-12-04 23:21:01.314032+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KVAS','KVAS') [42103-232]
+2024-12-04 23:21:01.315033+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('LAJO','LAJO') [42103-232]
+2024-12-04 23:21:01.315033+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('LHND','LHND') [42103-232]
+2024-12-04 23:21:01.315033+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('LOTO','LOTO') [42103-232]
+2024-12-04 23:21:01.315033+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('LOZP','LOZP') [42103-232]
+2024-12-04 23:21:01.316030+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('MAGP','MAGP') [42103-232]
+2024-12-04 23:21:01.316030+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('MAKP','MAKP') [42103-232]
+2024-12-04 23:21:01.316030+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('MAKS','MAKS') [42103-232]
+2024-12-04 23:21:01.316030+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('MB','MB') [42103-232]
+2024-12-04 23:21:01.317030+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('MERM','MERM') [42103-232]
+2024-12-04 23:21:01.317030+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('MKSD','MKSD') [42103-232]
+2024-12-04 23:21:01.317030+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('MLKR','MLKR') [42103-232]
+2024-12-04 23:21:01.317030+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('MODA','MODA') [42103-232]
+2024-12-04 23:21:01.318031+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('MPOL','MPOL') [42103-232]
+2024-12-04 23:21:01.318031+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('MPT','MPT') [42103-232]
+2024-12-04 23:21:01.318031+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('MPTE','MPTE') [42103-232]
+2024-12-04 23:21:01.318031+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('MTUR','MTUR') [42103-232]
+2024-12-04 23:21:01.319030+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('MZHE','MZHE') [42103-232]
+2024-12-04 23:21:01.319030+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('MZPU','MZPU') [42103-232]
+2024-12-04 23:21:01.319030+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('NEME','NEME') [42103-232]
+2024-12-04 23:21:01.319030+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('NOSK','NOSK') [42103-232]
+2024-12-04 23:21:01.319030+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('OBPP','OBPP') [42103-232]
+2024-12-04 23:21:01.320029+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('OILK','OILK') [42103-232]
+2024-12-04 23:21:01.320029+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('OKTA','OKTA') [42103-232]
+2024-12-04 23:21:01.320029+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('OMOS','OMOS') [42103-232]
+2024-12-04 23:21:01.320029+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('OPFO','OPFO') [42103-232]
+2024-12-04 23:21:01.321030+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('OPTK','OPTK') [42103-232]
+2024-12-04 23:21:01.321030+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('ORAN','ORAN') [42103-232]
+2024-12-04 23:21:01.321030+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('OSPO','OSPO') [42103-232]
+2024-12-04 23:21:01.321030+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('OTEK','OTEK') [42103-232]
+2024-12-04 23:21:01.321030+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('PELK','PELK') [42103-232]
+2024-12-04 23:21:01.322030+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('PGGV','PGGV') [42103-232]
+2024-12-04 23:21:01.322030+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('PKB','PKB') [42103-232]
+2024-12-04 23:21:01.322535+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('POPK','POPK') [42103-232]
+2024-12-04 23:21:01.322535+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('PPIV','PPIV') [42103-232]
+2024-12-04 23:22:46.002749+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('ALKB','ALKB') [42103-232]
+2024-12-04 23:22:46.003748+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('ADIN','ADIN') [42103-232]
+2024-12-04 23:22:46.003748+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('AMBR','AMBR') [42103-232]
+2024-12-04 23:22:46.003748+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('AMEH','AMEH') [42103-232]
+2024-12-04 23:22:46.003748+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('APTK','APTK') [42103-232]
+2024-12-04 23:22:46.004747+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('ATPP','ATPP') [42103-232]
+2024-12-04 23:22:46.004747+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('AUMK','AUMK') [42103-232]
+2024-12-04 23:22:46.004747+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('BANA','BANA') [42103-232]
+2024-12-04 23:22:46.004747+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('BGOR','BGOR') [42103-232]
+2024-12-04 23:22:46.005747+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('BIKF','BIKF') [42103-232]
+2024-12-04 23:22:46.005747+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('BIM','BIM') [42103-232]
+2024-12-04 23:22:46.005747+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('BLTU','BLTU') [42103-232]
+2024-12-04 23:22:46.006748+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('CBNG','CBNG') [42103-232]
+2024-12-04 23:22:46.006748+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('CDHV','CDHV') [42103-232]
+2024-12-04 23:22:46.006748+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('CEVI','CEVI') [42103-232]
+2024-12-04 23:22:46.006748+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('CKB','CKB') [42103-232]
+2024-12-04 23:22:46.007747+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('CKBKO','CKBKO') [42103-232]
+2024-12-04 23:22:46.007747+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('DEBA','DEBA') [42103-232]
+2024-12-04 23:22:46.007747+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('DIMI','DIMI') [42103-232]
+2024-12-04 23:22:46.007747+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('EDST','EDST') [42103-232]
+2024-12-04 23:22:46.008747+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('ELMA','ELMA') [42103-232]
+2024-12-04 23:22:46.008747+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('ELNC','ELNC') [42103-232]
+2024-12-04 23:22:46.008747+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('ENER','ENER') [42103-232]
+2024-12-04 23:22:46.008747+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('ENSA','ENSA') [42103-232]
+2024-12-04 23:22:46.009747+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('EUHA','EUHA') [42103-232]
+2024-12-04 23:22:46.009747+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('EUMK','EUMK') [42103-232]
+2024-12-04 23:22:46.009747+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('EVRO','EVRO') [42103-232]
+2024-12-04 23:22:46.009747+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('FAKM','FAKM') [42103-232]
+2024-12-04 23:22:46.010746+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('FERS','FERS') [42103-232]
+2024-12-04 23:22:46.010746+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('FKTL','FKTL') [42103-232]
+2024-12-04 23:22:46.010746+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('FROT','FROT') [42103-232]
+2024-12-04 23:22:46.010746+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('FUBT','FUBT') [42103-232]
+2024-12-04 23:22:46.011747+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('GALE','GALE') [42103-232]
+2024-12-04 23:22:46.011747+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('GDKM','GDKM') [42103-232]
+2024-12-04 23:22:46.011747+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('GECK','GECK') [42103-232]
+2024-12-04 23:22:46.011747+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('GECT','GECT') [42103-232]
+2024-12-04 23:22:46.011747+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('GIMS','GIMS') [42103-232]
+2024-12-04 23:22:46.011747+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('GRDN','GRDN') [42103-232]
+2024-12-04 23:22:46.013232+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('GRNT','GRNT') [42103-232]
+2024-12-04 23:22:46.013232+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('GRSN','GRSN') [42103-232]
+2024-12-04 23:22:46.013232+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('GRZD','GRZD') [42103-232]
+2024-12-04 23:22:46.013232+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('GTC','GTC') [42103-232]
+2024-12-04 23:22:46.014230+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('GTRG','GTRG') [42103-232]
+2024-12-04 23:22:46.014230+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('IJUG','IJUG') [42103-232]
+2024-12-04 23:22:46.014230+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('INB','INB') [42103-232]
+2024-12-04 23:22:46.014230+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('INHO','INHO') [42103-232]
+2024-12-04 23:22:46.015233+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('INOV','INOV') [42103-232]
+2024-12-04 23:22:46.015233+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('INPR','INPR') [42103-232]
+2024-12-04 23:22:46.015233+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('INTP','INTP') [42103-232]
+2024-12-04 23:22:46.015233+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('JAKO','JAKO') [42103-232]
+2024-12-04 23:22:46.016197+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('JULI','JULI') [42103-232]
+2024-12-04 23:22:46.016197+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('JUSK','JUSK') [42103-232]
+2024-12-04 23:22:46.016197+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KARO','KARO') [42103-232]
+2024-12-04 23:22:46.016197+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KDFO','KDFO') [42103-232]
+2024-12-04 23:22:46.017195+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KJUBI','KJUBI') [42103-232]
+2024-12-04 23:22:46.017195+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KKFI','KKFI') [42103-232]
+2024-12-04 23:22:46.017195+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KKST','KKST') [42103-232]
+2024-12-04 23:22:46.017195+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KLST','KLST') [42103-232]
+2024-12-04 23:22:46.018194+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KMB','KMB') [42103-232]
+2024-12-04 23:22:46.018194+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KMPR','KMPR') [42103-232]
+2024-12-04 23:22:46.018194+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KOMU','KOMU') [42103-232]
+2024-12-04 23:22:46.018194+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KONF','KONF') [42103-232]
+2024-12-04 23:22:46.018194+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KONZ','KONZ') [42103-232]
+2024-12-04 23:22:46.019194+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KORZ','KORZ') [42103-232]
+2024-12-04 23:22:46.019194+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KPSS','KPSS') [42103-232]
+2024-12-04 23:22:46.019194+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KULT','KULT') [42103-232]
+2024-12-04 23:22:46.020194+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('KVAS','KVAS') [42103-232]
+2024-12-04 23:22:46.020194+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('LAJO','LAJO') [42103-232]
+2024-12-04 23:22:46.020194+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('LHND','LHND') [42103-232]
+2024-12-04 23:22:46.020194+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('LOTO','LOTO') [42103-232]
+2024-12-04 23:22:46.020194+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('LOZP','LOZP') [42103-232]
+2024-12-04 23:22:46.022725+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('MAGP','MAGP') [42103-232]
+2024-12-04 23:22:46.022725+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('MAKP','MAKP') [42103-232]
+2024-12-04 23:22:46.023732+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('MAKS','MAKS') [42103-232]
+2024-12-04 23:22:46.023732+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('MB','MB') [42103-232]
+2024-12-04 23:22:46.024736+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('MERM','MERM') [42103-232]
+2024-12-04 23:22:46.024736+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('MKSD','MKSD') [42103-232]
+2024-12-04 23:22:46.025730+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('MLKR','MLKR') [42103-232]
+2024-12-04 23:22:46.025730+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('MODA','MODA') [42103-232]
+2024-12-04 23:22:46.025730+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('MPOL','MPOL') [42103-232]
+2024-12-04 23:22:46.025730+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('MPT','MPT') [42103-232]
+2024-12-04 23:22:46.026730+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('MPTE','MPTE') [42103-232]
+2024-12-04 23:22:46.026730+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('MTUR','MTUR') [42103-232]
+2024-12-04 23:22:46.026730+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('MZHE','MZHE') [42103-232]
+2024-12-04 23:22:46.026730+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('MZPU','MZPU') [42103-232]
+2024-12-04 23:22:46.027730+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('NEME','NEME') [42103-232]
+2024-12-04 23:22:46.027730+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('NOSK','NOSK') [42103-232]
+2024-12-04 23:22:46.027730+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('OBPP','OBPP') [42103-232]
+2024-12-04 23:22:46.027730+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('OILK','OILK') [42103-232]
+2024-12-04 23:22:46.028729+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('OKTA','OKTA') [42103-232]
+2024-12-04 23:22:46.028729+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('OMOS','OMOS') [42103-232]
+2024-12-04 23:22:46.029234+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('OPFO','OPFO') [42103-232]
+2024-12-04 23:22:46.029234+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('OPTK','OPTK') [42103-232]
+2024-12-04 23:22:46.029234+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('ORAN','ORAN') [42103-232]
+2024-12-04 23:22:46.029234+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('OSPO','OSPO') [42103-232]
+2024-12-04 23:22:46.029234+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('OTEK','OTEK') [42103-232]
+2024-12-04 23:22:46.030239+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('PELK','PELK') [42103-232]
+2024-12-04 23:22:46.030239+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('PGGV','PGGV') [42103-232]
+2024-12-04 23:22:46.030239+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('PKB','PKB') [42103-232]
+2024-12-04 23:22:46.030239+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('POPK','POPK') [42103-232]
+2024-12-04 23:22:46.030239+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('PPIV','PPIV') [42103-232]
+2024-12-04 23:22:54.982863+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('ALKB','ALKB') [42103-232]
+2024-12-04 23:22:54.983863+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('ADIN','ADIN') [42103-232]
+2024-12-04 23:22:54.983863+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('AMBR','AMBR') [42103-232]
+2024-12-04 23:22:54.983863+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('AMEH','AMEH') [42103-232]
+2024-12-04 23:22:54.983863+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('APTK','APTK') [42103-232]
+2024-12-04 23:22:54.983863+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "issuers" not found (candidates are: "ISSUERS"); SQL statement:
+INSERT INTO "issuers" (code, name) VALUES('ATPP','ATPP') [42103-232]
+2024-12-04 23:22:54.984868+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "[*]I"; expected "INSERT"; SQL statement:
+I [42001-232]
+2024-12-04 23:27:36.011738+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "historical_data" not found (candidates are: "HISTORICAL_DATA"); SQL statement:
+INSERT INTO "historical_data" VALUES(389,'ADIN','2023-05-08','722,00',NULL,NULL,'722,00','0.00','0','0','0') [42103-232]
+2024-12-04 23:27:36.011738+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "historical_data" not found (candidates are: "HISTORICAL_DATA"); SQL statement:
+INSERT INTO "historical_data" VALUES(390,'ADIN','2023-05-05','722,00',NULL,NULL,'722,00','0.00','0','0','0') [42103-232]
+2024-12-04 23:27:36.012782+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "historical_data" not found (candidates are: "HISTORICAL_DATA"); SQL statement:
+INSERT INTO "historical_data" VALUES(391,'ADIN','2023-05-04','722,00',NULL,NULL,'722,00','0.00','0','0','0') [42103-232]
+2024-12-04 23:27:36.012782+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "historical_data" not found (candidates are: "HISTORICAL_DATA"); SQL statement:
+INSERT INTO "historical_data" VALUES(392,'ADIN','2023-05-03','722,00',NULL,NULL,'722,00','0.00','0','0','0') [42103-232]
+2024-12-04 23:27:36.012782+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "historical_data" not found (candidates are: "HISTORICAL_DATA"); SQL statement:
+INSERT INTO "historical_data" VALUES(393,'ADIN','2023-05-02','722,00',NULL,NULL,'722,00','0.00','0','0','0') [42103-232]
+2024-12-04 23:27:36.012782+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "historical_data" not found (candidates are: "HISTORICAL_DATA"); SQL statement:
+INSERT INTO "historical_data" VALUES(394,'ADIN','2023-05-01','722,00',NULL,NULL,'722,00','0.00','0','0','0') [42103-232]
+2024-12-04 23:27:36.013777+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "historical_data" not found (candidates are: "HISTORICAL_DATA"); SQL statement:
+INSERT INTO "historical_data" VALUES(395,'ADIN','2023-04-28','722,00',NULL,NULL,'722,00','0.00','0','0','0') [42103-232]
+2024-12-04 23:27:36.013777+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "historical_data" not found (candidates are: "HISTORICAL_DATA"); SQL statement:
+INSERT INTO "historical_data" VALUES(396,'ADIN','2023-04-27','722,00',NULL,NULL,'722,00','0.00','0','0','0') [42103-232]
+2024-12-04 23:27:36.013777+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "historical_data" not found (candidates are: "HISTORICAL_DATA"); SQL statement:
+INSERT INTO "historical_data" VALUES(397,'ADIN','2023-04-26','722,00',NULL,NULL,'722,00','0.00','0','0','0') [42103-232]
+2024-12-04 23:27:36.014794+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "historical_data" not found (candidates are: "HISTORICAL_DATA"); SQL statement:
+INSERT INTO "historical_data" VALUES(398,'ADIN','2023-04-25','722,00',NULL,NULL,'722,00','0.00','0','0','0') [42103-232]
+2024-12-04 23:27:36.014794+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "historical_data" not found (candidates are: "HISTORICAL_DATA"); SQL statement:
+INSERT INTO "historical_data" VALUES(399,'ADIN','2023-04-24','722,00',NULL,NULL,'722,00','0.00','0','0','0') [42103-232]
+2024-12-04 23:27:36.014794+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "historical_data" not found (candidates are: "HISTORICAL_DATA"); SQL statement:
+INSERT INTO "historical_data" VALUES(400,'ADIN','2023-04-21','722,00',NULL,NULL,'722,00','0.00','0','0','0') [42103-232]
+2024-12-04 23:27:36.014794+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "historical_data" not found (candidates are: "HISTORICAL_DATA"); SQL statement:
+INSERT INTO "historical_data" VALUES(401,'ADIN','2023-04-20','722,00',NULL,NULL,'722,00','0.00','0','0','0') [42103-232]
+2024-12-04 23:27:36.015777+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "historical_data" not found (candidates are: "HISTORICAL_DATA"); SQL statement:
+INSERT INTO "historical_data" VALUES(402,'ADIN','2023-04-19','722,00',NULL,NULL,'722,00','0.00','0','0','0') [42103-232]
+2024-12-04 23:27:36.015777+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "historical_data" not found (candidates are: "HISTORICAL_DATA"); SQL statement:
+INSERT INTO "historical_data" VALUES(403,'ADIN','2023-04-18','722,00',NULL,NULL,'722,00','0.00','0','0','0') [42103-232]
+2024-12-04 23:27:36.015777+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "historical_data" not found (candidates are: "HISTORICAL_DATA"); SQL statement:
+INSERT INTO "historical_data" VALUES(404,'ADIN','2023-04-17','722,00',NULL,NULL,'722,00','0.00','0','0','0') [42103-232]
+2024-12-04 23:27:36.016757+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "historical_data" not found (candidates are: "HISTORICAL_DATA"); SQL statement:
+INSERT INTO "historical_data" VALUES(405,'ADIN','2023-04-14','722,00',NULL,NULL,'722,00','0.00','0','0','0') [42103-232]
+2024-12-04 23:27:36.016757+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "historical_data" not found (candidates are: "HISTORICAL_DATA"); SQL statement:
+INSERT INTO "historical_data" VALUES(406,'ADIN','2023-04-13','722,00',NULL,NULL,'722,00','0.00','0','0','0') [42103-232]
+2024-12-04 23:27:36.016757+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "historical_data" not found (candidates are: "HISTORICAL_DATA"); SQL statement:
+INSERT INTO "historical_data" VALUES(407,'ADIN','2023-04-12','722,00',NULL,NULL,'722,00','0.00','0','0','0') [42103-232]
+2024-12-04 23:27:36.016757+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "historical_data" not found (candidates are: "HISTORICAL_DATA"); SQL statement:
+INSERT INTO "historical_data" VALUES(408,'ADIN','2023-04-11','722,00',NULL,NULL,'722,00','0.00','0','0','0') [42103-232]
+2024-12-04 23:27:36.017778+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "historical_data" not found (candidates are: "HISTORICAL_DATA"); SQL statement:
+INSERT INTO "historical_data" VALUES(409,'ADIN','2023-04-10','722,00',NULL,NULL,'722,00','0.00','0','0','0') [42103-232]
+2024-12-04 23:27:36.017778+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "historical_data" not found (candidates are: "HISTORICAL_DATA"); SQL statement:
+INSERT INTO "historical_data" VALUES(410,'ADIN','2023-04-07','722,00',NULL,NULL,'722,00','0.00','0','0','0') [42103-232]
+2024-12-04 23:27:36.017778+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "historical_data" not found (candidates are: "HISTORICAL_DATA"); SQL statement:
+INSERT INTO "historical_data" VALUES(411,'ADIN','2023-04-06','722,00',NULL,NULL,'722,00','0.00','0','0','0') [42103-232]
+2024-12-04 23:27:36.017778+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "historical_data" not found (candidates are: "HISTORICAL_DATA"); SQL statement:
+INSERT INTO "historical_data" VALUES(412,'ADIN','2023-04-05','722,00',NULL,NULL,'722,00','0.00','0','0','0') [42103-232]
+2024-12-04 23:27:36.017778+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "historical_data" not found (candidates are: "HISTORICAL_DATA"); SQL statement:
+INSERT INTO "historical_data" VALUES(413,'ADIN','2023-04-04','722,00',NULL,NULL,'722,00','0.00','0','0','0') [42103-232]
+2024-12-04 23:27:36.018775+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "historical_data" not found (candidates are: "HISTORICAL_DATA"); SQL statement:
+INSERT INTO "historical_data" VALUES(414,'ADIN','2023-04-03','722,00',NULL,NULL,'722,00','0.00','0','0','0') [42103-232]
