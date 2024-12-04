@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="dataSourceStorageLocal" created-in="PY-242.23726.102">
-    <data-source name="macedonian_stock_exchange" uuid="71f338ed-1b74-4247-a304-b0417cd38af3">
-      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="SQLITE" />
-      <schema-mapping />
-    </data-source>
-  </component>
-</project>
