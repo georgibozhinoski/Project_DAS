@@ -194,7 +194,7 @@ class StockAnalyzer:
 
 
 def main():
-    db_path = r'C:\Users\Admin\PycharmProjects\Project_DAS\Домашна 1\database\macedonian_stock_exchange.db'
+    db_path = '..\..\Домашна 1\database\macedonian_stock_exchange.db'
 
     analyzer = StockAnalyzer(db_path)
 
