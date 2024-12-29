@@ -5,7 +5,7 @@ from textblob import TextBlob
 import sqlite3
 
 # Define the database path change*
-DB_PATH = 'E:/Predmeti Faks/Das_Project/Project_DAS/Домашна 1/database/macedonian_stock_exchange.db'
+DB_PATH = '../../Домашна 1/database/macedonian_stock_exchange.db'
 
 # Fetch news function
 def fetch_news():
