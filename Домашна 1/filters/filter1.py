@@ -2,9 +2,8 @@ import os
 import requests
 from bs4 import BeautifulSoup
 import sqlite3
-
-# Define the database path relative to the script’s location
-DB_PATH = os.path.join(os.path.dirname(__file__), "../database/macedonian_stock_exchange.db")
+import psycopg2
+from db_params import DB_PARAMS
 
 def fetch_issuers():
     url = "https://www.mse.mk/en/stats/symbolhistory/kmb"
@@ -18,7 +17,7 @@ def fetch_issuers():
 
     # Extract issuer codes and names
     issuers = []
-    for option in soup.select("#Code option"):  # Update with actual CSS selector
+    for option in soup.select("#Code option"):
         code = option.get("value")
         name = option.text.strip()
 
@@ -27,16 +26,27 @@ def fetch_issuers():
         if not any(char.isdigit() for char in code) and not any(char.isdigit() for char in name):
             issuers.append((code, name))
 
-    # Store issuers in the database
-    conn = sqlite3.connect(DB_PATH)
-    cursor = conn.cursor()
+    try:
+        conn = psycopg2.connect(**DB_PARAMS)
+        cursor = conn.cursor()
 
-    for code, name in issuers:
-        cursor.execute("INSERT OR IGNORE INTO issuers (code, name) VALUES (?, ?)", (code, name))
+        # Insert issuers into the database
+        for code, name in issuers:
+            cursor.execute("""
+                   INSERT INTO issuers (code, name) 
+                   VALUES (%s, %s)
+                   ON CONFLICT (code) DO NOTHING
+               """, (code, name))
 
-    conn.commit()
-    conn.close()
-    print("Issuers fetched and stored in database.")
+        conn.commit()
+        print("Issuers fetched and stored in the database.")
 
+    except Exception as e:
+        print(f"Error: {e}")
+
+    finally:
+            if conn:
+                cursor.close()
+                conn.close()
 if __name__ == "__main__":
     fetch_issuers()
