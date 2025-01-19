@@ -92,31 +92,42 @@ class StockAnalyzer:
         signals = pd.DataFrame(index=df.index)
         signals['date'] = df.index
         signals['price'] = df['Last Price']
-        signals['signal'] = 'HOLD'
+
         signals['MA_trend'] = np.where(df['SMA_20'] > df['EMA_10'], 'BULLISH', 'BEARISH')
         signals['MACD_signal'] = np.where(df['MACD'] > 0, 'BULLISH', 'BEARISH')
         signals['RSI_signal'] = 'NEUTRAL'
         signals.loc[df['RSI'] > 70, 'RSI_signal'] = 'OVERBOUGHT'
         signals.loc[df['RSI'] < 30, 'RSI_signal'] = 'OVERSOLD'
         signals['volume_trend'] = np.where(df['Quantity'] > df['Volume_SMA_20'], 'HIGH', 'LOW')
+
         buy_conditions = (
                 (signals['MA_trend'] == 'BULLISH') &
                 (signals['MACD_signal'] == 'BULLISH') &
                 (signals['RSI_signal'] == 'OVERSOLD') &
                 (signals['volume_trend'] == 'HIGH')
         )
+
         sell_conditions = (
                 (signals['MA_trend'] == 'BEARISH') &
                 (signals['MACD_signal'] == 'BEARISH') &
                 (signals['RSI_signal'] == 'OVERBOUGHT') &
                 (signals['volume_trend'] == 'HIGH')
         )
+
+        signals['signal'] = None
+
         signals.loc[buy_conditions, 'signal'] = 'BUY'
         signals.loc[sell_conditions, 'signal'] = 'SELL'
+
+        signals = signals.dropna(subset=['signal'])
+
         return signals
 
     def send_signals_to_spring(self, signals: pd.DataFrame, issuer_code: str, timeframe: str) -> bool:
         try:
+
+            valid_signals = signals.dropna(subset=['signal'])
+
             signals_data = [
                 {
                     'issuerCode': issuer_code,
@@ -129,8 +140,13 @@ class StockAnalyzer:
                     'rsiSignal': row['RSI_signal'],
                     'volumeTrend': row['volume_trend']
                 }
-                for _, row in signals.iterrows()
+                for _, row in valid_signals.iterrows()
             ]
+
+            if not signals_data:
+                print(f"No valid signals to send for {issuer_code} ({timeframe})")
+                return True
+
             response = requests.post(SIGNALS_API_URL, json=signals_data)
             success = response.status_code == 200
             print(f"Signal save for {issuer_code} ({timeframe}): {'Success' if success else 'Failed'}")
@@ -261,6 +277,7 @@ class BatchStockAnalyzer:
         except Exception as e:
             print(f"Error during batch analysis: {str(e)}")
             return {"error": f"Batch analysis failed: {str(e)}"}
+
 
 @app.route('/analyze_all', methods=['GET'])
 def analyze_all_data():
